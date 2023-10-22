@@ -8,7 +8,7 @@ Olá, pessoal! Bem-vindos ao meu repositório onde compartilho dicas, truques e 
 - **Artigos Completos**: Reflexões e tutoriais mais profundos sobre tópicos específicos.
 - **Curiosidades**: Você sabia? Coisas divertidas e interessantes sobre o mundo da tecnologia.
 
-## 🤔 Como contribuir?
+## 🤝 Como contribuir?
 
 Se você tiver alguma dica ou curiosidade legal, sinta-se à vontade para abrir uma `issue` ou enviar um `pull request`. Vamos aprender juntos!
 
